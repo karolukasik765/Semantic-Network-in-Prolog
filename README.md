@@ -1,3 +1,3 @@
 # Semantic-Network-in-Prolog
 
-In following project I have implemented basic semantic network describing Coffee Machine and possible probrem solutions. Extensive report in Polish is involved. 
+In the following project I've implemented a basic semantic network describing Coffee Machine and possible problem solutions that can appear during its usage. Extensive report in Polish is involved. 
